@@ -22,7 +22,10 @@ A desktop-based Library Management System built using **Java (JDK 21)** and **Sw
 - **NetBeans IDE**
 
 ---
+## License
 
+This project is licensed under the [MIT License](LICENSE).
+--
 ## 📦 How to Run the Project
 
 **Clone the repository**
